@@ -1,7 +1,6 @@
                                 STUDENT RECORD MANAGEMENT SYSTEM
-
-A menu-driven Student Record Management System developed in C using a Singly Linked List. 
-The project allows users to add, delete, display, modify, sort, reverse, and save student records through a simple command-line interface.
+ 
+I developed a menu-driven Student Record Management System in C using a singly linked list and dynamic memory allocation. The project is designed to efficiently manage student records through operations such as adding, deleting, displaying, modifying, sorting, reversing, and saving records to a file. It demonstrates the practical implementation of structures, pointers, linked lists, dynamic memory allocation, searching, sorting, file handling, and modular programming in C.
 
 # Project Files
 main.c -> Main function and menu-driven program flow.
